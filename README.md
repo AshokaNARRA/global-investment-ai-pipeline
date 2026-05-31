@@ -1,4 +1,5 @@
 # Global Investment & Market Intelligence Pipeline
+[📺 Watch the 4-Minute Video Walkthrough of the BI Dashboard & AI Pipeline](https://youtu.be/K51c42RAiJg)
 
 An end-to-end investment intelligence ecosystem utilizing Agentic AI to automate global macro research, quantitatively screen equities for high-alpha opportunities, and deliver cross-border portfolio analytics via a unified BI dashboard.
 
